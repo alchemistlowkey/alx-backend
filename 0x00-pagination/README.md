@@ -1,6 +1,8 @@
 # Pagination
 ![pagination_head](https://github.com/alchemistlowkey/alx-backend/assets/46524038/7889da73-3fe6-45b6-a2e8-3367f90e28a2)
+
 ![pagination_middle](https://github.com/alchemistlowkey/alx-backend/assets/46524038/65aa5c68-7d52-489e-90fb-12f8b94326a0)
+
 ![pagination_tail](https://github.com/alchemistlowkey/alx-backend/assets/46524038/a8c716af-619c-4b55-af07-c2a8f26635e8)
 
 ## Resources
