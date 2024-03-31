@@ -54,14 +54,14 @@ class Server:
         assert isinstance(page_size, int) and page_size > 0
 
         dataset = self.indexed_dataset()
-        max_index = len(dataset)
+        max_index = max(dataset.keys())
         data = []
         next_index = index
 
         if index is None:
             index = 0
         else:
-            assert index <= max_index
+            assert index <= max_index, "Index is out of range."
 
         for i in range(page_size):
             if next_index not in dataset:
@@ -72,7 +72,7 @@ class Server:
         hyper_info = {
             "index": index,
             "data": data,
-            "page_size": len(data),
+            "page_size": page_size,
             "next_index": next_index
         }
 
