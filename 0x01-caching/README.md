@@ -1,4 +1,5 @@
 # Caching
+![caching](https://github.com/alchemistlowkey/alx-backend/assets/46524038/c288ae20-d18d-4306-af0a-b3fdcd39b93d)
 
 ## Background Context
 In this project, you learn different caching algorithms.
