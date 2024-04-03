@@ -22,7 +22,7 @@ class LIFOCache(BaseCaching):
         """
         Add an item to the cache
         """
-        
+
         if key is not None and item is not None:
             if key in self.cache_data:
                 self.cache_data[key] = item
