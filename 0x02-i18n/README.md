@@ -1,4 +1,5 @@
 # i18n
+![i18n](https://github.com/alchemistlowkey/alx-backend/assets/46524038/2b4f4335-6a16-4564-8dbf-e37fd96e526f)
 
 ## Resources
 #### Read or watch:
