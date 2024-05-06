@@ -30,7 +30,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 `package.json`
 <details>
   <summary>Click to show/hide file contents</summary>
-```
+
+  ```
   {
     "name": "queuing_system_in_js",
     "version": "1.0.0",
@@ -67,12 +68,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
       "sinon": "^7.5.0"
     }
   }
-```
+  ```
+
 </details>
 
 `.babelrc`
 <details>
   <summary>Click to show/hide file contents</summary>
+  
 ```
   {
     "presets": [
@@ -80,6 +83,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
     ]
   }
 ```
+
 </details>
 
 ## and…
